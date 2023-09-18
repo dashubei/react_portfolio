@@ -12,6 +12,7 @@ function App() {
 
   return (
     <div className="bg-[#06B9F5] font-body">
+      test
         <Header />
         <Home />
         <About />
