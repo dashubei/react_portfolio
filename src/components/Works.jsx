@@ -59,7 +59,7 @@ function Works() {
                 </a>
                 </Fade>
                 <Fade>
-                <a href="https://dashubei.github.io/react_tailwind_portfolio/" className="block w-[100%] md:w-[48%] p-4" target="_blank">
+                <a href="https://dashubei.github.io/react_portfolio/" className="block w-[100%] md:w-[48%] p-4" target="_blank">
                     <div className="bg-gray-100 h-full p-8 rounded-lg cursor-pointer hover:opacity-30 duration-200">
                       <div className="flex items-center mb-3">
                         <img src={work4} alt="" />
