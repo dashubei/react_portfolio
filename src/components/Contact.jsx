@@ -4,9 +4,9 @@ import Fade from 'react-reveal/Fade';
 
 function Contact() {
   return (
-    <Fade className="text-center m-auto">
+    <Fade>
     <Element name="contact" className="text-white items-center text-center">
-    <div className="container text-center my-5 items-center">
+    <div className="container text-center my-5 items-center mx-auto">
       <h1 className="sm:text-3xl text-2xl font-medium text-center">Contact<br/><i class="fa-solid fa-envelope fa-2x"></i></h1>
       <div>
         <p>お問い合わせは、<br class="md:hidden" />メールにてお願いいたします。</p>
