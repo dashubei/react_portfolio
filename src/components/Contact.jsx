@@ -6,7 +6,11 @@ function Contact() {
   return (
     <Fade>
     <Element name="contact" className="text-white items-center text-center">
+<<<<<<< HEAD
     <div className="container text-center my-5 items-center mx-auto">
+=======
+    <div className="container text-center my-5">
+>>>>>>> parent of 08eba31... last2
       <h1 className="sm:text-3xl text-2xl font-medium text-center">Contact<br/><i class="fa-solid fa-envelope fa-2x"></i></h1>
       <div>
         <p>お問い合わせは、<br class="md:hidden" />メールにてお願いいたします。</p>
