@@ -4,7 +4,7 @@ import Fade from 'react-reveal/Fade';
 
 function Contact() {
   return (
-    <Fade className="items-center text-center m-auto">
+    <Fade className="text-center m-auto">
     <Element name="contact" className="text-white items-center text-center">
     <div className="container text-center my-5 items-center">
       <h1 className="sm:text-3xl text-2xl font-medium text-center">Contact<br/><i class="fa-solid fa-envelope fa-2x"></i></h1>
